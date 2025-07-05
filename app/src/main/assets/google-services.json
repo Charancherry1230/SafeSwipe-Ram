@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797830435671",
+    "project_id": "safe-swipe-dc796",
+    "storage_bucket": "safe-swipe-dc796.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797830435671:android:fa785c0e5ab524930fe412",
+        "android_client_info": {
+          "package_name": "com.example.safeswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797830435671-gfcjt37l7l3aevcmfna3ljohfrqau660.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItIR3l_xQuQ8NfV_44Evx_Vk4C2HnrTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797830435671-gfcjt37l7l3aevcmfna3ljohfrqau660.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
